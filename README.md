@@ -6,10 +6,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications+%F0%9F%9A%80;Backend+Systems+%7C+Clean+Architecture+%E2%9A%A1;JavaScript+%7C+Node.js+%7C+React+%F0%9F%8C%9F;Consistency+beats+intensity+in+the+long+run+%E2%AD%90)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Satyamsinghweb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Satyamsinghweb)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-satyam1604-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam1604)
-[![Profile Views](https://komarev.com/ghpvc/?username=Satyamsinghweb&style=for-the-badge&color=58a6ff&label=Profile+Views)](https://github.com/Satyamsinghweb)
-
 </div>
 
 ---
@@ -107,6 +103,7 @@ I enjoy turning ideas into real, working products. My focus lies in building **e
 
 [![GitHub](https://img.shields.io/badge/GitHub-Satyamsinghweb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Satyamsinghweb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-satyam1604-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam1604)
+[![Profile Views](https://komarev.com/ghpvc/?username=Satyamsinghweb&style=for-the-badge&color=58a6ff&label=Profile+Views)](https://github.com/Satyamsinghweb)
 
 </div>
 
