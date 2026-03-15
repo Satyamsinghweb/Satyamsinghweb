@@ -20,7 +20,6 @@ const satyam = {
   stack            : ["JavaScript", "Node.js", "React", "MongoDB", "Express.js"],
   currentlyBuilding: "Full stack projects emphasizing performance & simplicity",
   learning         : "Deepening backend development & system design knowledge",
-  motto            : "Consistency beats intensity in the long run ⭐",
 };
 ```
 
